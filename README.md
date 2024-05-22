@@ -1,5 +1,5 @@
 # Cluster-GCN
-This is an implementation of Cluster-GCN, using StellarGraph as the library
+This is an implementation of Cluster-GCN, using StellarGraph library
 
 **Reference Links:**
 - [StellarGraph library](https://stellargraph.readthedocs.io/en/stable/)
